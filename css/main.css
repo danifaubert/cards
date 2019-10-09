@@ -56,14 +56,14 @@ html {
 
 .cards a {
   display: inline-block;
+  background-color: #ccc;
   padding: .5em .75em;
   border-radius: 4px;
-  background-colour: #ccc;
   color: #000;
   text-decoration: none;
 }
 
 .cards a:hover {
-  background-Colour: #333333;
+  background-color: #333333;
   color: #fff;
 }
