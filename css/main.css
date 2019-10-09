@@ -1,7 +1,7 @@
-Html {
+html {
   box-sizing: border-box;
   background-color: #f2f2f2;
-  Font-family: Georgia, serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
 }
 
@@ -10,60 +10,60 @@ Html {
 }
 
 .cards {
-  Margin: 0;
-  Padding: 0;
-  List-style-type: none;
-  Text-align: center;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
 }
 
 .cards li {
-  Display: inline-block;
-  Margin: 0 .5em 1em;
-  Max-width: 20em;
-  Padding: 1em
+  display: inline-block;
+  margin: 0 .5em 1em;
+  max-width: 20em;
+  padding: 1em
   background-color: #fff;
-  Border: 3px solid #e2e2e2;
-  Border-radius: 10px;
-  Text-align: left;
+  border: 3px solid #e2e2e2;
+  border-radius: 10px;
+  text-align: left;
 }
 
 .cards strong {
-  Display: block;
-  Margin-bottom: 1rem;
+  display: block;
+  margin-bottom: 1rem;
 
-  Font-size: 1.125rem;
+  font-size: 1.125rem;
 }
 
 .cards dl {
-  Margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 .cards dt {
-  Display: inline-block;
-  Width: 6em;
-  Font-style: italic;
+  display: inline-block;
+  width: 6em;
+  font-style: italic;
 }
 
 .cards dd {
-  Display: inline-block;
-  Margin: 0;
-  Min-width: 9em;
+  display: inline-block;
+  margin: 0;
+  min-width: 9em;
 }
 
 .cards div {
-  Text-align: center;
+  text-align: center;
 }
 
 .cards a {
-  Display: inline-block;
-  Padding: .5em .75em;
-  Background-Colour: #cccccc;
-  Border-radius: 4px;
-  Color: #000;
-  Text-decoration: none;
+  display: inline-block;
+  padding: .5em .75em;
+  background-Colour: #cccccc;
+  border-radius: 4px;
+  color: #000;
+  text-decoration: none;
 }
 
 .cards a:hover {
-  Background-Colour: #333333;
-  Color: #fff;
+  background-Colour: #333333;
+  color: #fff;
 }
