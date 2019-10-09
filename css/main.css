@@ -21,7 +21,7 @@ Html {
   Margin: 0 .5em 1em;
   Max-width: 20em;
   Padding: 1em
-  Background-Colour: #fff;
+  background-color: #fff;
   Border: 3px solid #e2e2e2;
   Border-radius: 10px;
   Text-align: left;
@@ -57,13 +57,13 @@ Html {
 .cards a {
   Display: inline-block;
   Padding: .5em .75em;
-  Background-Colour: #ccc;
+  Background-Colour: #cccccc;
   Border-radius: 4px;
   Color: #000;
   Text-decoration: none;
 }
 
 .cards a:hover {
-  Background-Colour: #333;
+  Background-Colour: #333333;
   Color: #fff;
 }
